@@ -5,17 +5,11 @@
 命令示例：
 
 ```python
-python D:\WorkSpace\vscode\script\python\openURL.py
+python D:\WorkSpace\vscode\script\obsidian-script\openURL.py
 ```
 
 # Scripts list - 脚本列表
 
 ## 1. openURL.py
 
-原因：
-
-- 头部的Front-matter中会写from（内容来源），一般直接填上链接，但在Front-matter中无法直接像md语法中的链接点击访问，因此写了这个脚本
-
-思路：
-
-- 选中url后，脚本模拟复制，并将剪切板的内容返回python，调用浏览器访问
+鼠标选中ob中的url后，使用脚本，会自动调用浏览器访问这个url
