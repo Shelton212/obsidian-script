@@ -8,8 +8,8 @@
 python D:\WorkSpace\vscode\script\obsidian-script\openURL.py
 ```
 
-# Scripts list - 脚本列表
+## Scripts list - 脚本列表
 
-## 1. openURL.py
+### 1. openURL.py
 
 鼠标选中ob中的url后，使用脚本，会自动调用浏览器访问这个url
