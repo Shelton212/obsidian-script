@@ -1,4 +1,4 @@
-# Usage - 用法
+## Usage - 用法
 
 通过obsidian的[shellcommands](https://github.com/Taitava/obsidian-shellcommands)插件实现脚本的调用，每条命令都可以单独设置shortcut
 
