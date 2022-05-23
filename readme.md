@@ -12,4 +12,4 @@ python D:\WorkSpace\vscode\script\obsidian-script\openURL.py
 
 ### 1. openURL.py
 
-鼠标选中ob中的url后，使用脚本，会自动调用浏览器访问这个url
+鼠标选中ob中的文本后，使用脚本，会自动调用浏览器搜索/访问这个文本（可以是url）
