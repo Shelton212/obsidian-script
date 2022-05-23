@@ -1,4 +1,4 @@
-# Usage - 用法
+## Usage - 用法
 
 通过obsidian的[shellcommands](https://github.com/Taitava/obsidian-shellcommands)插件实现脚本的调用，每条命令都可以单独设置shortcut
 
@@ -8,8 +8,8 @@
 python D:\WorkSpace\vscode\script\obsidian-script\openURL.py
 ```
 
-# Scripts list - 脚本列表
+## Scripts list - 脚本列表
 
-## 1. openURL.py
+### 1. openURL.py
 
 鼠标选中ob中的url后，使用脚本，会自动调用浏览器访问这个url
